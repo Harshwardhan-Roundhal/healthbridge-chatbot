@@ -1,6 +1,18 @@
 # Dr. Gemini - AI Medical Assistant Chatbot
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)
+
 A modern, responsive medical assistant chatbot built with React, TypeScript, and Vite. Powered by Google's Gemini AI to help users understand their symptoms and health concerns.
+
+## 🌐 Live Demo
+
+**👉 [Try it live here](https://healthbridge-chatbot.vercel.app/)**
+
+The application is deployed and ready to use. Visit the link above to interact with the AI medical assistant.
 
 ## Features
 
@@ -31,7 +43,7 @@ A modern, responsive medical assistant chatbot built with React, TypeScript, and
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/your-username/gemini-chatbot-doctor.git
 cd gemini-chatbot-doctor
 ```
 
@@ -84,6 +96,12 @@ gemini-chatbot-doctor/
 ```
 
 ## Deployment
+
+### Live Application
+
+🚀 **Live Application**: [https://healthbridge-chatbot.vercel.app/](https://healthbridge-chatbot.vercel.app/)
+
+The application is currently deployed on Vercel and accessible at the link above.
 
 ### Deploy to Vercel
 
